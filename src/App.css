@@ -1,0 +1,145 @@
+body{
+    background-image: url('./Static/background1.jpg');
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.logo{
+    padding: 20px 95px 10px;
+    font-size:30px;
+    color:white;
+    font-family:cursive;
+}
+li{
+    display:inline;
+}
+.app{
+    text-align:center;
+    color:white;
+    font-size: 25px;
+    margin:25px 30px 50px 80px;
+    padding:100px 80px 200px 80px;
+    font-family:Sans-Serif;
+}
+h1{
+    font-weight: 15;
+}
+h3{
+    color:#D0C9C0;
+    font-weight: 15;
+}
+h6{
+   color: #D0C9C0;
+    font-weight: 15;
+}
+ul.demo{
+    list-style-type: none;
+    margin:0;
+    padding:0;
+    text-align:left;
+}
+.mainMenu {
+    width: 40%;
+    text-align:right;
+    display:inline;
+}
+.text{
+    margin: 250px 30px 50px 80px;
+    color: black;
+    font-size: 25px;
+}
+.para{
+    margin: -30px 30px 50px 80px;
+    color: black;
+}
+.one{
+    color: white;
+    padding: 1px 15px 0 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: -20px;
+}
+.two{
+    padding: 1px 15px 0 10px;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: -10px;
+}
+.three{
+    padding: 1px 15px 0 10px;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top:-10px;
+}
+.four{
+    padding: 1px 15px 0 10px;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top:-10px;
+}
+.five{
+    color: white;
+    padding: 1px 15px 0 300px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: -20px;
+}
+.six{
+    padding: 1px 15px 0 10px;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: -10px;
+}
+.seven{
+    border-style: solid;
+    border-color:white;
+    color: white;
+    padding: 5px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: -50px 15px;
+    cursor: pointer;
+}
+.eight{
+    border-style: solid;
+    border-color:white;
+    color: white;
+    padding: 5px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: -50px 15px;
+    cursor: pointer;
+}
+.button {
+    border-style: solid;
+    border-color:#FBCB0A;
+    color: white;
+    padding: 10px 40px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: -50px 15px;
+    cursor: pointer;
+}
